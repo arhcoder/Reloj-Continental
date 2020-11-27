@@ -1,27 +1,49 @@
-# | Reloj ARH |
+# Reloj Continental
 
-Aplicación que permite ver la hora y la fecha de varios países, a lo largo del mundo y en
-tiempo real.
+## Descripción
 
-* github.com/arhcoder/Reloj-ARH/
-__________________________________________________________________________________________
+🖥 Aplicación que permite ver la hora y la fecha de varios países, a lo largo del mundo, en tiempo real.
+____
 
-# CRÉDITOS:
 
-Desarrolladores:
-  * Alejandro Ramos Herrera (@arhcoder).
+## Acerca de
 
-Imágenes utilizadas:
-  * Icons made by Mercado de Vectores from Flaticon (https://www.flaticon.com).
-__________________________________________________________________________________________
+📅 **Fecha de inicio:** Noviembre de 2018.
 
-# LICENSE:
-  * GNU GPLv3.
-__________________________________________________________________________________________
+✅ **Última actualización:** Noviembre de 2018.
 
-# ACERCA DE:
+✅ **Estado:** Finalizado.
 
-Desarrollado en noviembre de 2018.
-Tiempo de desarrollo: 2 días.
-Propósito: Propósito: Práctica y Entretenimiento.
-__________________________________________________________________________________________
+❓ **Propósito:** Práctica y Entretenimiento.
+___
+
+
+## Créditos
+
+💻 **Programación:**
+  * Alejandro Ramos Herrera **(@arhcoder).**
+
+🎨 **Gráficos:**
+  * Icons made by Mercado de Vectores from **[Flaticon](https://www.flaticon.com)**.
+___
+
+
+## Tecnologías
+
+❄ **Lenguajes:**
+ * Java.
+ 
+🧰 **Entornos:**
+ * NetBeans IDE 8.2.
+___
+
+
+## Detalles
+
+🔰 ...
+___
+
+
+## Licencia
+
+📝 GNU GPLv3.
